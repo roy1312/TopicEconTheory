@@ -11,6 +11,7 @@ TopicEconTheory
 [Homework 6](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/Homework6.ipynb)
 
 [Homework 7](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/Homework7.ipynb)
+
 It seems that some problem happens in modified policy iteration
 algorithm when T = 1. Maybe in this case we should use stopping
 condition for value iteration
