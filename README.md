@@ -21,4 +21,5 @@ condition for value iteration
 [Homework 8](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/Homework8.ipynb)
 
 [Homework 9](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/Homework9.ipynb)
+
 Rust Figure 2 and 3 given estimations in table 9
