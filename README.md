@@ -23,3 +23,5 @@ condition for value iteration
 [Homework 9](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/Homework9.ipynb)
 
 Rust Figure 2 and 3 given estimations in table 9
+
+[Ex](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/RepAiyagari1994.ipynb)
