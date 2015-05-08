@@ -24,4 +24,4 @@ condition for value iteration
 
 Rust Figure 2 and 3 given estimations in table 9
 
-[Ex](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/RepAiyagari1994.ipynb)
+[Aiyagari1994](http://nbviewer.ipython.org/github/roy1312/TopicEconTheory/blob/master/RepAiyagari1994.ipynb)
